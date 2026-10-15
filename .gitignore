@@ -9,6 +9,7 @@
 *.lof
 *.lot
 *.fls
+*.pdf
 *.fdb_latexmk
 *.synctex.gz
 main.pdf
